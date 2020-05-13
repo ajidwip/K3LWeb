@@ -1,0 +1,112 @@
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\ApplicationInsights.config
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.dll.config
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.pdb
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Antlr3.Runtime.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\AspNet.ScriptManager.jQuery.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.DependencyCollector.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Web.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.WindowsServer.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ApplicationInsights.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.Web.Infrastructure.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Newtonsoft.Json.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\System.Web.Optimization.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\WebGrease.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\System.Web.Optimization.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Antlr3.Runtime.pdb
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Newtonsoft.Json.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ApplicationInsights.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.DependencyCollector.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.WindowsServer.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Web.xml
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.csprojResolveAssemblyReference.cache
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.csproj.CoreCompileInputs.cache
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.dll
+D:\ProjectTes\backup project\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.pdb
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\ApplicationInsights.config
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.dll.config
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.pdb
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Antlr3.Runtime.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\AspNet.ScriptManager.jQuery.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.DependencyCollector.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Web.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.WindowsServer.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ApplicationInsights.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.Web.Infrastructure.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Newtonsoft.Json.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\System.Web.Optimization.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\WebGrease.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\System.Web.Optimization.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Antlr3.Runtime.pdb
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Newtonsoft.Json.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ApplicationInsights.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.DependencyCollector.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.WindowsServer.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Web.xml
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.csprojResolveAssemblyReference.cache
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.csproj.CoreCompileInputs.cache
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.dll
+D:\ProjectTes\backup project\k3l\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.pdb
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\ApplicationInsights.config
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.dll.config
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\k3lkendaraanweb.pdb
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Antlr3.Runtime.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Web.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Newtonsoft.Json.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\System.Web.Optimization.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\WebGrease.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\System.Web.Optimization.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Antlr3.Runtime.pdb
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Newtonsoft.Json.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\bin\Microsoft.AI.Web.xml
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.csprojAssemblyReference.cache
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.csproj.CoreCompileInputs.cache
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.csproj.CopyComplete
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.dll
+E:\Projects\k3lkendaraanweb\k3lkendaraanweb\obj\Debug\k3lkendaraanweb.pdb
